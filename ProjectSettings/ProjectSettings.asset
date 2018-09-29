@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 0e30095be3243d942a829ec35dadbaec
+  productGUID: 0741f35120be2034a9ccc7c0b1a650e7
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -578,10 +578,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 0f53f360-fcd2-4ad0-b190-5f902b3459eb
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: PacMan
+  organizationId: mateuszwon94--2
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
